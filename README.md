@@ -1,47 +1,48 @@
-# HR Attrition Analysis Dashboard
+# Employee Attrition Analysis & Workforce Insights
 
-## 📌 Overview
-This project analyzes employee attrition using SQL for data analysis and Power BI for visualization to identify key drivers of employee exits.
-
----
-
-## 📊 Key Metrics
-- Total Employees: 22,000  
-- Active Employees: 18,000  
-- Terminated Employees: 4,000  
-- Attrition Rate: 17.7%  
+## 📌 Problem Statement
+Employee attrition impacts organizational stability, productivity, and cost. This project analyzes HR data to identify attrition patterns, high-risk segments, and key drivers of employee turnover.
 
 ---
 
-## 🔍 Key Insights
-- Auditing (23.1%) and Legal (20.3%) exceed the company average (17.7%)
-- Attrition remains stable at ~17–18% with no improvement over time
-- Sales roles show 40% attrition (2x company average)
-- Employees aged 18–25 have highest attrition (19%)
-- Gender impact is minimal (<1%)
+## 📊 Dataset
+- 22K+ employee records  
+- Features include department, job role, salary, tenure, and attrition status  
+
+---
+
+## 🔍 Key Analysis
+- Performed data cleaning and transformation using SQL and Excel  
+- Conducted exploratory data analysis to identify workforce trends  
+- Built an interactive Power BI dashboard for visualization and insights  
+
+---
+
+## 📈 Key Insights
+- Sales (40%) and Auditing (23%) show the highest attrition rates  
+- Early-career employees exhibit higher turnover trends  
+- Attrition varies significantly across departments and tenure levels  
+
+---
+
+## 💡 Business Impact
+- Enabled data-driven decision-making for HR teams  
+- Highlighted high-risk departments for targeted retention strategies  
+- Improved visibility into workforce patterns and attrition drivers  
+
+---
+
+## 🛠️ Tools & Technologies
+- SQL  
+- Power BI  
+- Microsoft Excel  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](your-dashboard-image.png)
 
 ---
 
-## 🛠 Tools Used
-- SQL (Data analysis and querying)
-- Power BI (Data visualization)
-
----
-
-## 📂 SQL Analysis
-Key SQL queries used:
-- Employee tenure calculation using date functions
-- Attrition rate calculation by department
-- Employee distribution by department, job role, and location
-- Hiring vs termination trend over time
-- Demographic analysis (age, gender, race)
-
----
-
-## 🎯 Conclusion
-Attrition is highest in high-pressure roles and early-career employees, with minimal gender impact.
+## 🚀 Conclusion
+This project demonstrates how data analysis and visualization can help organizations proactively address attrition and improve workforce retention strategies.
