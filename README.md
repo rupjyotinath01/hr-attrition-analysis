@@ -40,7 +40,7 @@ Employee attrition impacts organizational stability, productivity, and cost. Thi
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](your-dashboard-image.png)
+<img src="dashboard.png" width="100%">
 
 ---
 
